@@ -1,8 +1,8 @@
 # Responsive restaurant website using  HTML, CSS and Javascript.
 ### `website is deplyoed on below link`
-  [click here](https://restaurant-react-csk.netlify.app/) \
+  [click here](https://resposive-restaurant-site-csk.netlify.app/) \
   or the link below \
-  https://restaurant-react-csk.netlify.app/
+  https://resposive-restaurant-site-csk.netlify.app/
 
 ### `output screenshots`
   #### Navbar and Home
